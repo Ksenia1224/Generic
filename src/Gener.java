@@ -1,6 +1,6 @@
 public class Gener <T, V, K> {
     private T ten;
-    private V ven;
+    private V ven;//56454545
     private K ken;
 
     public Gener(T ten, V ven, K ken) {
